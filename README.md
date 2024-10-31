@@ -39,9 +39,6 @@ The dataset is sourced from Kaggle's "Titanic - Machine Learning from Disaster" 
 3. Download the dataset from Kaggle
 4. Run the analysis notebooks
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 - Kaggle for providing the dataset
 - The Titanic competition community for insights and discussions
